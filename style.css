@@ -1,0 +1,13 @@
+
+h1 {color:hsl(0, 0%, 99%)}
+p {color:rgb(253, 253, 253)}
+p{font-size: 150%;}
+p{font-weight: bold;}
+h1{font-size: 350%;}
+h1{font-family:Arial, Helvetica, sans-serif}
+
+.jumbotron {
+    background-image: url("bacteria1.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
